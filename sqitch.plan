@@ -2,5 +2,5 @@
 %project=flipr
 %uri=file://../flipr-remote
 
-appschema 2013-05-21T19:01:04Z David E. Wheeler <david@justatheory.com> # Adds flipr app schema.
-users [appschema] 2013-05-21T19:41:54Z David E. Wheeler <david@justatheory.com> # Creates table to track our users.
+appschema 2013-08-15T02:18:47Z Sergey Konoplev <gray.ru@gmail.com> # Adds flipr app schema
+users [appschema] 2013-08-27T23:25:44Z Sergey Konoplev <gray.ru@gmail.com> # Create schema to track our users.
