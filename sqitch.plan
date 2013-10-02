@@ -5,3 +5,4 @@
 appschema 2013-08-15T02:18:47Z Sergey Konoplev <gray.ru@gmail.com> # Adds flipr app schema
 users [appschema] 2013-08-27T23:25:44Z Sergey Konoplev <gray.ru@gmail.com> # Create schema to track our users.
 flips 2013-08-30T06:32:48Z Sergey Konoplev <gray.ru@gmail.com> # Adds flips table.
+insert_user [users appschema] 2013-10-02T05:53:15Z Sergey Konoplev <gray.ru@gmail.com> # Creates a function to insert a user.
